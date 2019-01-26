@@ -78,6 +78,8 @@ public List<Integer> getRow(int rowIndex){
     }
 
 
+// Concept reference: http://www.cnblogs.com/grandyang/p/4031536.html 
+//(Btw, I love his C++ solution)
 
 
 /* My Version (Practice recersive, but no space complexity O(k))
