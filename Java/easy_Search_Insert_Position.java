@@ -22,7 +22,7 @@ Example 4:
     Output: 0
 */
 
-// This is a binary search problem. The complexity should be O(log(n)).
+// This is a binary search problem. The time complexity should be O(log(n)).
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
@@ -49,7 +49,7 @@ class Solution {
 
 
 /* My first Version
-//The complexity is O(n).
+//The time complexity is O(n).
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
