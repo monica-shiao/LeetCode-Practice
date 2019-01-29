@@ -1,4 +1,8 @@
 /***
+Tags: "Array", "Math"
+Create: 2019/01/23
+Update: 2019/01/24
+
 Problem description:
 Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
 

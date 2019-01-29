@@ -1,4 +1,8 @@
-/*
+/***
+Tags: "Array", "Binary Search"
+Create: 2019/01/23
+Update: 2019/01/23
+
 Problem description:
 Given a sorted array and a target value, return the index if the target is found. 
 If not, return the index where it would be if it were inserted in order.
@@ -20,7 +24,7 @@ Example 3:
 Example 4: 
     Input: [1,3,5,6], 0
     Output: 0
-*/
+***/
 
 // This is a binary search problem. The time complexity should be O(log(n)).
 
