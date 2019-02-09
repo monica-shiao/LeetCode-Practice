@@ -1,7 +1,7 @@
 /***
 Tags: "Tree"
 Create: 2019/01/30
-Update: 2019/02/0
+Update: 2019/02/09
 
 Problem description:
 Given two binary trees and imagine that when you put one of them to cover the other, some nodes of the two trees are overlapped while the others are not.
