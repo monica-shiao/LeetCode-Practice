@@ -1,14 +1,15 @@
 # LeetCode-Practice
 
-## Problem List
-|  No. | Name | Tags |
+## Solved Problem List
+|  No. | Title | Tags |
 | -------- | -------- | -------- |
 | 1 | Two Sum | `easy` `Array` `Hash Table` |
 | 7 | Reverse Integer | `easy` `Math` |
-| 14 | Longest Common Prefix | `medium` `Tree` `Stack` `Hash Table`|
+| 14 | Longest Common Prefix | `easy` `String`|
 | 35     | Search_Insert_Position     | `easy` `Array` `Binary Search` |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` |
 | 66 | Plus_One | `easy` `Array` `Math` |
+| 94 | Binary Tree Inorder Traversal | `medium` `Tree` `Stack` `Hash Table` |
 | 100 | Same Tree | `easy` `Tree` `DFS` |
 | 101 | Symmetric_Tree | `easy` `BFS` `DFS` `Tree` |
 | 104 | Maximum_Depth_of_Binary_Tree | `easy` `BFS` `DFS` `Tree` |
@@ -19,27 +20,35 @@
 | 344 | Reverse_String | `easy` `String` `Two Pointer` |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` |
 
-
+## Todo Problem (Other solutions)
+|  No. | Name | Solution |
+| -------- | -------- | -------- |
+| 1 | Two Sum | `Hash Table` |
+| 14 | Longest Common Prefix | `Divide & Conquer` `Binary Search Tree` `Horizontal scanning`|
+| 53 | Maximum Subarray | `Divide & Conquer`|
+| 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
 
 ## Feb Statistics
 ### Easy
 1. 1_Two Sum: `easy` `Array` `Hash Table`
 
 2. 7_Reverse Integer: `easy` `Math`
-3. 35_Search_Insert_Position: `easy` `Array` `Binary Search`
-4. 53_Maximum Subarray: `easy` `Divide & Conquer` `Dynamic Programming`
-5. 66_Plus_One.java: `easy` `Array` `Math`
-6. 100_Same Tree: `easy` `Tree` `DFS`
-7. 101_Symmetric_Tree: `easy` `BFS` `DFS` `Tree`
-8. 104_Maximum_Depth_of_Binary_Tree: `easy` `BFS` `DFS` `Tree`
-9. 119_Pascal's_Triangle_II: `easy` `Array` 
-10. 167_Two_Sum_II: `easy` `Array` `Binary Search` `Two Pointer` 
-11. 189_Rotate_Array: `easy` `Array` 
-12. 344_Reverse_String: `easy` `String` `Two Pointer` 
-13. 617_Merge_Two_Binary_Trees: `easy` `Tree`
+3. 14_Longest Common Prefix: `easy` `String`
+4. 35_Search Insert Position: `easy` `Array` `Binary Search`
+5. 53_Maximum Subarray: `easy` `Divide & Conquer` `Dynamic Programming`
+6. 66_Plus One.java: `easy` `Array` `Math`
+7. 100_Same Tree: `easy` `Tree` `DFS`
+8. 101_Symmetric Tree: `easy` `BFS` `DFS` `Tree`
+9. 104_Maximum Depth of Binary Tree: `easy` `BFS` `DFS` `Tree`
+10. 119_Pascal's Triangle_II: `easy` `Array` 
+11. 167_Two Sum II: `easy` `Array` `Binary Search` `Two Pointer` 
+12. 189_Rotate Array: `easy` `Array` 
+13. 344_Reverse String: `easy` `String` `Two Pointer` 
+14. 617_Merge Two Binary Trees: `easy` `Tree`
 
 ### Medium
-1. 152_Maximum_Product_Subarray: `medium` `Array` `Dynamic Programming` 
-2. 14_Longest Common Prefix | `medium` `Tree` `Stack` `Hash Table`
+1. 152_Maximum Product Subarray: `medium` `Array` `Dynamic Programming` 
+2. 94_Binary Tree Inorder Traversal: `medium` `Tree` `Stack` `Hash Table`
+
 
 ### Hard
