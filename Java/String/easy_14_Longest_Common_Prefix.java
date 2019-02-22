@@ -23,9 +23,33 @@ All given inputs are in lowercase letters a-z.
 ***/
 
 
+// Version of Divide & Conquer 
+class Solution {
+     public String longestCommonPrefix(String[] strs) {
+            if (strs.length == 0) return "";
+            String ans = Divide_Conquer(strs, 0, strs.length-1);
+        return ans;
+    }
+    
+    String Divide_Conquer(String[] strs, int left_num, int right_num){
+        if(left_num >= right_num)   return strs[left_num];
+        
+        int mid = (right_num + left_num)/2;
+        String left = Divide_Conquer(strs, left_num, mid);
+        String right = Divide_Conquer(strs, mid + 1, right_num);
+
+        while(right.indexOf(left) != 0){ 
+            left = left.substring(0, left.length() - 1);
+        }
+        
+        return left;
+    }
+}
+
 // My Version (Same as Official Version of Vertical scanning)
 // Time complexity : O(S), where S is the sum of all characters in all strings.
 // Only used constant extra space.
+/*
 class Solution {
      public String longestCommonPrefix(String[] strs) {
         if (strs.length == 0) return "";
@@ -44,4 +68,22 @@ class Solution {
         }
         return ans;
     }
-}
+}*/
+
+// Official Version of Horizontal scanning
+// Time and space complexity is same as above.
+/*
+class Solution {
+     public String longestCommonPrefix(String[] strs) {
+         if (strs.length == 0) return "";
+         String ans = strs[0];
+         
+         for(int i = 1; i < strs.length; i++){
+            // If entire ans is not in strs[i], reduce one charactor from the back of ans. (strs[i].indexOf("") is 0) 
+             while(strs[i].indexOf(ans) != 0){
+                ans = ans.substring(0, ans.length()-1);
+             }
+         }
+        return ans;
+    }
+}*/

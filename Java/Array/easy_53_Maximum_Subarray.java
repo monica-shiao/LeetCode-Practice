@@ -15,7 +15,7 @@ Follow up:
 If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 ***/
 
-// My First Version
+// My First Version (Dynamic Programming)
 // O(n) time complexity.
 class Solution {
     public int maxSubArray(int[] nums) {
