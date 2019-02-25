@@ -18,12 +18,13 @@
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` |
 | 189 | Rotate_Array | `easy` `Array` | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` |
+| 387 | First Unique Character in a String | `easy` `String` `Hash Table` |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` |
 
 ## Todo Problem (Other solutions)
 |  No. | Name | Solution |
 | -------- | -------- | -------- |
-| 1 | Two Sum | `Hash Table` |
+| All | Hash Table problems | `Hash Table` |
 | 14 | Longest Common Prefix | `Divide & Conquer` `Binary Search Tree` `Horizontal scanning`|
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
@@ -44,7 +45,8 @@
 11. 167_Two Sum II: `easy` `Array` `Binary Search` `Two Pointer` 
 12. 189_Rotate Array: `easy` `Array` 
 13. 344_Reverse String: `easy` `String` `Two Pointer` 
-14. 617_Merge Two Binary Trees: `easy` `Tree`
+14. 387_First Unique Character in a String: `easy` `String` `Hash Table`
+15. 617_Merge Two Binary Trees: `easy` `Tree`
 
 ### Medium
 1. 152_Maximum Product Subarray: `medium` `Array` `Dynamic Programming` 
