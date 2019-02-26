@@ -14,6 +14,7 @@
 | 101 | Symmetric_Tree | `easy` `BFS` `DFS` `Tree` |
 | 104 | Maximum_Depth_of_Binary_Tree | `easy` `BFS` `DFS` `Tree` |
 | 119 | Pascal's_Triangle_II | `easy` `Array` |
+| 125 | Valid_Palindrome | `easy` `String` `Two Pointer` |
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` |
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` |
 | 189 | Rotate_Array | `easy` `Array` | 
@@ -28,6 +29,7 @@
 | 14 | Longest Common Prefix | `Divide & Conquer` `Binary Search Tree` `Horizontal scanning`|
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
+| 125 | Valid_Palindrome |`Two Pointer` |
 
 ## Feb Statistics
 ### Easy
@@ -42,15 +44,13 @@
 8. 101_Symmetric Tree: `easy` `BFS` `DFS` `Tree`
 9. 104_Maximum Depth of Binary Tree: `easy` `BFS` `DFS` `Tree`
 10. 119_Pascal's Triangle_II: `easy` `Array` 
-11. 167_Two Sum II: `easy` `Array` `Binary Search` `Two Pointer` 
-12. 189_Rotate Array: `easy` `Array` 
-13. 344_Reverse String: `easy` `String` `Two Pointer` 
-14. 387_First Unique Character in a String: `easy` `String` `Hash Table`
-15. 617_Merge Two Binary Trees: `easy` `Tree`
+11. 125_Valid Palindrome: `easy` `String` `Two Pointer`
+12. 167_Two Sum II: `easy` `Array` `Binary Search` `Two Pointer` 
+13. 189_Rotate Array: `easy` `Array` 
+14. 344_Reverse String: `easy` `String` `Two Pointer` 
+15. 387_First Unique Character in a String: `easy` `String` `Hash Table`
+16. 617_Merge Two Binary Trees: `easy` `Tree`
 
 ### Medium
 1. 152_Maximum Product Subarray: `medium` `Array` `Dynamic Programming` 
 2. 94_Binary Tree Inorder Traversal: `medium` `Tree` `Stack` `Hash Table`
-
-
-### Hard

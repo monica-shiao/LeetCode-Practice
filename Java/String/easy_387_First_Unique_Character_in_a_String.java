@@ -1,5 +1,5 @@
 /***
-Tags: "Array"
+Tags: "String" "Hash Table"
 Create: 2019/02/25
 Update: 2019/02/25
 
