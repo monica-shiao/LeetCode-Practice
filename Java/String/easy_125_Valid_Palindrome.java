@@ -1,7 +1,7 @@
 /***
 Tags: "String" "Two Pointer"
 Create: 2019/02/25
-Update: 2019/02/26
+Update: 2019/02/28
 
 Problem description:
 Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
@@ -38,5 +38,35 @@ class Solution {
         if(str1.toString().equals(str1.reverse().toString()))     return true;
         else    return false;
 
+    }
+}
+
+// My Two Pointer Version
+// 1ms slower than the above solution
+class Solution {
+    public boolean isPalindrome(String s) {
+        if(s.length() < 2)  return true;
+        
+        int i = 0, j = s.length()-1;
+        s = s.toLowerCase();
+        
+        while(i < j){
+            if(!Character.isLetterOrDigit(s.charAt(i))){
+                ++i;
+                continue;
+            }    
+            
+            if(!Character.isLetterOrDigit(s.charAt(j))){
+                --j;
+                continue;
+            }    
+            
+            if(s.charAt(i) != s.charAt(j))    return false;
+            
+            ++i;
+            --j;
+        }
+        
+        return true;
     }
 }

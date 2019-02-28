@@ -29,7 +29,6 @@
 | 14 | Longest Common Prefix | `Divide & Conquer` `Binary Search Tree` `Horizontal scanning`|
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
-| 125 | Valid_Palindrome |`Two Pointer` |
 
 ## Feb Statistics
 ### Easy
