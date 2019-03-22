@@ -21,6 +21,7 @@
 | 344 | Reverse_String | `easy` `String` `Two Pointer` |
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` |
+| 709 | To Lower Case | `easy` `String` |
 
 ## Todo Problem (Other solutions)
 |  No. | Name | Solution |
@@ -59,5 +60,5 @@
 
 ## March Statistics:
 ### Easy
-
+1. 709_To_Lower_Case: `easy` `String`
 ### Medium
