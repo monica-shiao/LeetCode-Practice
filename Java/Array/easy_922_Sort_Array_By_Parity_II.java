@@ -1,0 +1,90 @@
+/***
+Tags: Array
+Create: 2019/4/2
+Update: 2019/4/4
+
+Problem description:
+Given an array A of non-negative integers, half of the integers in A are odd, and half of the integers are even.
+
+Sort the array so that whenever A[i] is odd, i is odd; and whenever A[i] is even, i is even.
+
+You may return any answer array that satisfies this condition.
+
+
+Example 1:
+
+	Input: [4,2,5,7]
+	Output: [4,5,2,7]
+	Explanation: [4,7,2,5], [2,5,4,7], [2,7,4,5] would also have been accepted.
+
+
+Note:
+
+	2 <= A.length <= 20000
+    A.length % 2 == 0
+    0 <= A[i] <= 1000
+
+***/
+
+// My Second Version
+// Faster than 13%, memory less than 80%, not so good.
+class Solution {
+    public int[] sortArrayByParityII(int[] A) {
+        int i, j, tmp;
+        
+        for(i = 0; i < A.length; i++){
+            if(i % 2 == 0){
+                if(A[i] % 2 != 0){
+                    for(j = i+1; j < A.length; j++){
+                        if(A[j] % 2 == 0){
+                            tmp = A[i];
+                            A[i] = A[j];
+                            A[j] = tmp;
+                            break;
+                        }
+                    }
+                }
+            }
+            else{
+                if(A[i] % 2 == 0){
+                    for(j = i+1; j < A.length; j++){
+                        if(A[j] % 2 != 0){
+                            tmp = A[i];
+                            A[i] = A[j];
+                            A[j] = tmp;
+                            break;
+                        }
+                    }
+                }
+            }
+        }
+        
+        return A;
+    }
+}
+
+
+
+// My First Version
+// Faster than 11%, memory less than 16%, not so good.
+class Solution {
+    public int[] sortArrayByParityII(int[] A) {
+        int[] ans = new int[A.length];
+        Stack odd = new Stack();
+        Stack even = new Stack();
+        int i;
+        
+        for(i = 0; i < A.length; i++){
+            if(A[i] % 2 == 0)   even.push(A[i]);
+            else    odd.push(A[i]);
+            
+        }
+        
+        for(i = 0; i < A.length; i++){
+            if(i % 2 == 0)  ans[i] = (int)even.pop();
+            else    ans[i] = (int)odd.pop();
+        }
+        
+        return ans;
+    }
+}
