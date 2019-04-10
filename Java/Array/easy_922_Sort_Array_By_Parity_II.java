@@ -26,8 +26,29 @@ Note:
 
 ***/
 
-// My Second Version
-// Faster than 13%, memory less than 80%, not so good.
+// My Third Version (Additional Array)
+// Runtime: 2 ms (faster than 99.85%); Memory: 43.2 MB (less than 9.73%)
+class Solution {
+    public int[] sortArrayByParityII(int[] A) {
+        int[] ans = new int[A.length];
+        int odd = 1, even = 0, i;
+        for(i = 0; i < A.length; i++){
+            if(A[i] % 2 == 0){
+                ans[even] = A[i];
+                even += 2;
+            }
+            else{
+                ans[odd] = A[i];
+                odd += 2;
+            }
+        }
+        return ans;
+    }
+}
+
+
+// My Second Version (Selection Sort, In-place)
+// Runtime: 9 ms (faster than 15.18%); Memory: 42 MB (less than 73.37%)
 class Solution {
     public int[] sortArrayByParityII(int[] A) {
         int i, j, tmp;
@@ -65,8 +86,9 @@ class Solution {
 
 
 
-// My First Version
-// Faster than 11%, memory less than 16%, not so good.
+// My First Version (Stack)
+// Faster than 11%, memory less than 16%, terrible.
+/*
 class Solution {
     public int[] sortArrayByParityII(int[] A) {
         int[] ans = new int[A.length];
@@ -88,3 +110,4 @@ class Solution {
         return ans;
     }
 }
+*/
