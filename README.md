@@ -22,6 +22,8 @@
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` |
 | 709 | To Lower Case | `easy` `String` |
+| 922 | Sort Array By Parity II | `easy` `Array` |
+| 977 | Squares of a Sorted Array | `easy` `Array` |
 
 ## Todo Problem (Other solutions)
 |  No. | Name | Solution |
@@ -31,6 +33,8 @@
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
 | 125 | Valid_Palindrome |`Two Pointer` |
+| 922 | Sort Array By Parity II | `Better Sort` |
+| 977 | Squares of a Sorted Array | `Better Sort` |
 
 ## Feb Statistics: 18 Problems
 ### Easy
@@ -58,7 +62,15 @@
 
 ---
 
-## March Statistics:
+## March Statistics: 1 Problem
 ### Easy
 1. 709_To_Lower_Case: `easy` `String`
-### Medium
+
+---
+
+## April Statistics: 
+### Easy
+1. 922_Sort_Array_By_Parity_II: `easy` `Array`
+2. 977_Squares_of_a_Sorted_Array: `easy` `Array`
+
+
