@@ -46,6 +46,49 @@ Example 3:
  *     TreeNode(int x) { val = x; }
  * }
  */
+
+// My Iterative Version
+class Solution {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        Stack<TreeNode[]> tree = new Stack<>();
+        if(p != null && q != null){
+            if(p.val == q.val)  tree.push(new TreeNode[]{p, q});
+            else    return false;
+        }
+        else if(p == null && q == null)     return true;
+        else    return false;
+        
+        while(!tree.empty()){
+            TreeNode[] tmp = tree.pop();
+            
+            if(tmp[0].left != null && tmp[1].left != null){
+                if(!(tmp[0].left.val == tmp[1].left.val))   return false;
+                else{
+                    tree.push(new TreeNode[]{tmp[0].left, tmp[1].left});
+                }
+            }
+            else{
+                if(!(tmp[0].left == null && tmp[1].left == null)) return false;
+            }
+            
+            if(tmp[0].right != null && tmp[1].right != null){
+                if(!(tmp[0].right.val == tmp[1].right.val))   return false;
+                else{
+                    tree.push(new TreeNode[]{tmp[0].right, tmp[1].right});
+                }
+            }
+            else{
+                if(!(tmp[0].right == null && tmp[1].right == null)) return false;
+            }
+        }
+        return true;
+    }
+}
+
+
+
+
+
 // My Recursive Version
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
