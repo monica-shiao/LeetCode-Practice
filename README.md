@@ -33,7 +33,6 @@
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
 | 125 | Valid_Palindrome |`Two Pointer` |
-| 922 | Sort Array By Parity II | `Better Sort` |
 | 977 | Squares of a Sorted Array | `Better Sort` |
 
 ## Feb Statistics: 18 Problems

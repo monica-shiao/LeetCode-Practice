@@ -25,8 +25,40 @@ Note:
 
 ***/
 
+// My 2ed Version (Stack)
+// Runtime: 13 ms (faster than 14.57%); Memory: 42.5 MB (less than 61.14%)
+class Solution {
+    public int[] sortedSquares(int[] A) {
+        Stack<Integer> tmp = new Stack<>();
+        int[] B = new int[A.length];
+        int i, tmp1=0;
+        
+        for(i = 0; i < A.length; i++){
+            if(A[i] >= 0){
+                if(!tmp.empty()){
+                    if(tmp.peek() < A[i]*A[i]){
+                        B[tmp1++] = tmp.pop();
+                        i--;
+                        continue;
+                    }
+                }
+                B[tmp1++] = A[i]*A[i]; 
+            }   
+            else{
+                tmp.push(A[i]*A[i]);
+            }
+        }
+        
+        while(!tmp.empty()){
+            B[tmp1++] = tmp.pop();
+        }
+        return B;
+    }
+} 
+
+
 // Selection Sort
-//faster than 5%, Memory less than 83%
+// Runtime: 884 ms (faster than 5.01%); Memory: 42.1 MB (less than 83%)
 class Solution {
     public int[] sortedSquares(int[] A) {
         int i, j, min;

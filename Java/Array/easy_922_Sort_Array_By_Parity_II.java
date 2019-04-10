@@ -87,7 +87,7 @@ class Solution {
 
 
 // My First Version (Stack)
-// Faster than 11%, memory less than 16%, terrible.
+// Runtime: 14 ms (faster than 9.50%); Memory: 42.9 MB (less than 21.42%); Terrible it is, haha QQ.
 /*
 class Solution {
     public int[] sortArrayByParityII(int[] A) {
