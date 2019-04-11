@@ -15,6 +15,7 @@
 | 104 | Maximum_Depth_of_Binary_Tree | `easy` `BFS` `DFS` `Tree` | 3 |
 | 119 | Pascal's_Triangle_II | `easy` `Array` | 2 |
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
+| 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
 | 189 | Rotate_Array | `easy` `Array` | 2 |
@@ -75,5 +76,9 @@
 
 2. 977_Squares of a Sorted Array: `easy` `Array` `2 versions`
 3. 557_Reverse Words in a String III: `easy` `String` `2 versions`
+
+
+### Medium
+1. 151_Reverse Words in a String: `medium` `String` `3 versions`
 
 
