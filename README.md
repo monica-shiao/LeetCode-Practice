@@ -4,6 +4,7 @@
 |  No. | Title | Tags | Version Nums |
 | -------- | -------- | -------- | -------- |
 | 1 | Two Sum | `easy` `Array` `Hash Table` | 1 |
+| 3 | Longest Substring Without Repeating Characters | `medium` `String` `Two Pointer`| 3 |
 | 7 | Reverse Integer | `easy` `Math` | 1 |
 | 14 | Longest Common Prefix | `easy` `String`| 3 |
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
@@ -31,6 +32,7 @@
 |  No. | Name | Solution |
 | -------- | -------- | -------- |
 | All | Hash Table problems | `Hash Table` |
+| 3 | Longest Substring Without Repeating Characters | `Hash Table` `Sliding Window` |
 | 14 | Longest Common Prefix | `Divide & Conquer` `Binary Search Tree` `Horizontal scanning`|
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
@@ -80,5 +82,6 @@
 
 ### Medium
 1. 151_Reverse Words in a String: `medium` `String` `3 versions`
+2. 3_Longest Substring Without Repeating Characters: `medium` `String` `Two Pointer` `2 versions`
 
 
