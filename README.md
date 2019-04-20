@@ -20,6 +20,7 @@
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
 | 189 | Rotate_Array | `easy` `Array` | 2 |
+| 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
@@ -80,6 +81,7 @@
 2. 977_Squares of a Sorted Array: `easy` `Array` `2 versions`
 3. 557_Reverse Words in a String III: `easy` `String` `2 versions`
 4. 771_Jewels and Stones: `easy` `Hash Table` `2 versions`
+5. 202_Happy Number: `easy` `Math` `Hash Table` `2 versions`
 
 
 ### Medium
