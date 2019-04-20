@@ -12,7 +12,7 @@ class LeetCode():
 		self.file_folder_num = 0
 		self.file_tag = ""
 		self.difficultys = ['easy', 'medium', 'hard']
-		self.file_folder = ['Array','Backtracking', 'BFS','Binary_Search', 'Binary_Search_Tree''Bit_Manipulation','DFS','Divide&Conquer', 'Dynamic_Programming','Graph','Heap','Later', 'Math', 'Queqe', 'Sort','Stack', 'String', 'Tree','Two_Pointers']
+		self.file_folder = ['Array','Backtracking', 'BFS','Binary_Search', 'Binary_Search_Tree''Bit_Manipulation','DFS','Divide&Conquer', 'Dynamic_Programming','Graph','Heap','Hash_Table', 'Math', 'Queqe', 'Sort','Stack', 'String', 'Tree','Two_Pointers']
 
 	# Using problem No. to get the name and level of problem.
 	def getLeetCodeProblems(self, pb_num):
@@ -23,7 +23,7 @@ class LeetCode():
 	    for i in range(len(questions) - 1, -1, -1): 
 	        if questions[i]['stat']['frontend_question_id'] == pb_num:
 	            question = questions[i]
-	            self.pb_name = question['stat']['question__article__slug']
+	            self.pb_name = question['stat']['question__title_slug']
 	            name = question['stat']['question__title'].replace(" ","_")
 	            level = self.difficultys[question['difficulty']['level'] - 1]
 	            break
