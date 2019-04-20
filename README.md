@@ -25,6 +25,7 @@
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
 | 709 | To Lower Case | `easy` `String` | 2 |
+| 771 | Jewels and Stones | `easy` `Hash Table` | 2 |
 | 922 | Sort Array By Parity II | `easy` `Array` | 3 |
 | 977 | Squares of a Sorted Array | `easy` `Array` | 2 |
 
@@ -78,6 +79,7 @@
 
 2. 977_Squares of a Sorted Array: `easy` `Array` `2 versions`
 3. 557_Reverse Words in a String III: `easy` `String` `2 versions`
+4. 771_Jewels and Stones: `easy` `Hash Table` `2 versions`
 
 
 ### Medium
