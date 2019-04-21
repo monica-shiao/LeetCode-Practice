@@ -26,6 +26,7 @@
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
 | 709 | To Lower Case | `easy` `String` | 2 |
+| 739 | Daily Temperatures | `medium` `Stack` `Hash Table` | 3 |
 | 771 | Jewels and Stones | `easy` `Hash Table` | 2 |
 | 922 | Sort Array By Parity II | `easy` `Array` | 3 |
 | 977 | Squares of a Sorted Array | `easy` `Array` | 2 |
@@ -86,6 +87,8 @@
 
 ### Medium
 1. 151_Reverse Words in a String: `medium` `String` `3 versions`
+
 2. 3_Longest Substring Without Repeating Characters: `medium` `String` `Two Pointer` `2 versions`
+3. 739_Daily Temperatures: `medium` `Stack` `Hash Table` `3 versions`
 
 
