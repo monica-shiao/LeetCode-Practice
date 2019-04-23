@@ -1,4 +1,4 @@
-import datetime, requests, json, re
+import datetime, requests, json, re, os
 
 time = datetime.datetime.now() #現在時間
 cur_time = str(time.year) + "/" + str(time.month) + "/" + str(time.day)
@@ -48,7 +48,8 @@ class LeetCode():
 		response = requests.post(url, data=payload, headers=headers).json()
 
 		reg = re.compile('<[^>]*>')
-		self.pb_content = reg.sub('',response['data']['question']['content'])
+		self.pb_content = reg.sub('',response['data']['question']['content']).replace("&amp;","&").replace("&quot;", '"').replace("&apos;", "'").replace("&gt;",">").replace("&lt;", "<").replace("&nbsp;", "")
+
 
 	def getFileSavedLocation(self):
 		cnt = 1;
@@ -76,6 +77,7 @@ Problem description:
 		file.close()
 
 		print("已將 " + self.file_name + ".java 檔案新增至 " + self.file_folder[self.file_folder_num]+ " 資料夾中")
+		os.system("open ./Java/" + self.file_folder[self.file_folder_num] + "/" + self.file_name + ".java")
 
 
 
@@ -86,4 +88,3 @@ leetcode = LeetCode()
 leetcode.getLeetCodeProblems(problem_num)
 
 leetcode.getFileSavedLocation()
-

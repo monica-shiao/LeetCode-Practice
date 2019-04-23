@@ -18,7 +18,6 @@ Example:
 // My First Version
 // Brute Force, time complexity is O(n^2). Space complexity : O(1).
 
-Space complexity : O(1)O(1). 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int i, j;
