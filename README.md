@@ -14,6 +14,7 @@
 | 100 | Same Tree | `easy` `Tree` `DFS` | 2 |
 | 101 | Symmetric_Tree | `easy` `BFS` `DFS` `Tree` | 4 |
 | 104 | Maximum_Depth_of_Binary_Tree | `easy` `BFS` `DFS` `Tree` | 3 |
+| 108 | Convert Sorted Array to Binary Search Tree | `easy` `DFS` `Tree`  | 1 | 
 | 119 | Pascal's_Triangle_II | `easy` `Array` | 2 |
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
 | 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
@@ -84,6 +85,7 @@
 4. 771_Jewels and Stones: `easy` `Hash Table` `2 versions`
 5. 202_Happy Number: `easy` `Math` `Hash Table` `2 versions`
 
+6. 108_Convert Sorted Array to Binary Search Tree: `easy` `DFS` `Tree` `1 version ` 
 
 ### Medium
 1. 151_Reverse Words in a String: `medium` `String` `3 versions`
