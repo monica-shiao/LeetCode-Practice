@@ -30,6 +30,7 @@
 | 739 | Daily Temperatures | `medium` `Stack` `Hash Table` | 3 |
 | 771 | Jewels and Stones | `easy` `Hash Table` | 2 |
 | 922 | Sort Array By Parity II | `easy` `Array` | 3 |
+| 938 | Range Sum of BST | `easy` `BFS` `DFS` `Tree`  | 3 | 
 | 977 | Squares of a Sorted Array | `easy` `Array` | 2 |
 
 ## Todo Problem (Other solutions)
@@ -87,6 +88,7 @@
 
 6. 108_Convert Sorted Array to Binary Search Tree: `easy` `DFS` `Tree` `1 version ` 
 
+7. 938_Range Sum of BST: `easy` `BFS` `DFS` `Tree` `3 versions` 
 ### Medium
 1. 151_Reverse Words in a String: `medium` `String` `3 versions`
 
