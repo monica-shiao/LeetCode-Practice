@@ -1,5 +1,9 @@
 # LeetCode-Practice
 
+:::info
+Script environment: Python3
+:::
+
 ## Solved Problem List
 |  No. | Title | Tags | Version Nums |
 | -------- | -------- | -------- | -------- |

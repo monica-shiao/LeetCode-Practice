@@ -38,7 +38,7 @@ class ReadMe():
 	def UpdateReadme(self, pb_num ):
 		solved_pb_list = "| " + str(pb_num) + " | " + self.pb_name + " | `" + self.level + "` " + self.file_tag + " | " + str(self.version_num) + " | "
 		print("solved_pb_list is : " + solved_pb_list)
-		readme_file = file("./README.md")
+		readme_file = open("./README.md")
 		readme_content = readme_file.read()
 		readme_file.close()
 
@@ -55,11 +55,11 @@ class ReadMe():
 
 		column_num , No = self.UpdateMonth(lines)
 		month_list = str(No) + ". " + str(pb_num)+ "_" + self.pb_name + ": `" + self.level + "` " + self.file_tag + "`" + str(self.version_num)
-		month_list +=  " versions` " if self.version_num > 1 else " version` "
+		month_list +=  " versions` \n" if int(self.version_num) > 1 else " version` \n"
 		lines.insert(column_num, month_list)
 		readme_content = '\n'.join(lines)
 
-		fp = file("./README.md", 'w')
+		fp = open("./README.md", 'w')
 		fp.write(readme_content)
 		fp.close()
 		print("insert success~~~")
