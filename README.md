@@ -31,6 +31,7 @@
 | 709 | To Lower Case | `easy` `String` | 2 |
 | 739 | Daily Temperatures | `medium` `Stack` `Hash Table` | 3 |
 | 771 | Jewels and Stones | `easy` `Hash Table` | 2 |
+| 876 | Middle of the Linked List | `easy` `Linked_List`  | 3 | 
 | 897 | Increasing Order Search Tree | `easy` `Tree` `DFS`  | 2 | 
 | 922 | Sort Array By Parity II | `easy` `Array` | 3 |
 | 938 | Range Sum of BST | `easy` `BFS` `DFS` `Tree`  | 3 | 
@@ -92,9 +93,12 @@
 6. 108_Convert Sorted Array to Binary Search Tree: `easy` `DFS` `Tree` `1 version ` 
 
 7. 938_Range Sum of BST: `easy` `BFS` `DFS` `Tree` `3 versions` 
-### Medium
-8. 897_Increasing Order Search Tree: `easy` `Tree` `DFS` `2 versions` 
 
+8. 897_Increasing Order Search Tree: `easy` `Tree` `DFS` `2 versions`
+
+9. 876_Middle of the Linked List: `easy` `Linked_List` `3 versions` 
+
+### Medium
 1. 151_Reverse Words in a String: `medium` `String` `3 versions`
 
 2. 3_Longest Substring Without Repeating Characters: `medium` `String` `Two Pointer` `2 versions`

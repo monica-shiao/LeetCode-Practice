@@ -12,7 +12,7 @@ class LeetCode():
 		self.file_folder_num = 0
 		self.file_tag = ""
 		self.difficultys = ['easy', 'medium', 'hard']
-		self.file_folder = ['Array','Backtracking', 'BFS','Binary_Search', 'Binary_Search_Tree''Bit_Manipulation','DFS','Divide&Conquer', 'Dynamic_Programming','Graph','Heap','Hash_Table', 'Math', 'Queqe', 'Sort','Stack', 'String', 'Tree','Two_Pointers']
+		self.file_folder = ['Array','Backtracking', 'BFS','Binary_Search', 'Binary_Search_Tree','Bit_Manipulation','DFS','Divide&Conquer', 'Dynamic_Programming','Graph','Heap','Hash_Table','Linked_List', 'Math', 'Queqe', 'Sort','Stack', 'String', 'Tree','Two_Pointers']
 
 	# Using problem No. to get the name and level of problem.
 	def getLeetCodeProblems(self, pb_num):
