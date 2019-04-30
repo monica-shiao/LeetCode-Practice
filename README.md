@@ -31,6 +31,7 @@
 | 709 | To Lower Case | `easy` `String` | 2 |
 | 739 | Daily Temperatures | `medium` `Stack` `Hash Table` | 3 |
 | 771 | Jewels and Stones | `easy` `Hash Table` | 2 |
+| 897 | Increasing Order Search Tree | `easy` `Tree` `DFS`  | 2 | 
 | 922 | Sort Array By Parity II | `easy` `Array` | 3 |
 | 938 | Range Sum of BST | `easy` `BFS` `DFS` `Tree`  | 3 | 
 | 977 | Squares of a Sorted Array | `easy` `Array` | 2 |
@@ -92,6 +93,8 @@
 
 7. 938_Range Sum of BST: `easy` `BFS` `DFS` `Tree` `3 versions` 
 ### Medium
+8. 897_Increasing Order Search Tree: `easy` `Tree` `DFS` `2 versions` 
+
 1. 151_Reverse Words in a String: `medium` `String` `3 versions`
 
 2. 3_Longest Substring Without Repeating Characters: `medium` `String` `Two Pointer` `2 versions`
