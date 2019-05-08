@@ -1,7 +1,7 @@
 /***
 Tags: Linked_List
 Create: 2019/5/1
-Update: 2019/5/3
+Update: 2019/5/8
 
 Problem description:
 Reverse a singly linked list.
@@ -25,6 +25,36 @@ A linked list can be reversed either iteratively or recursively. Could you imple
  *     ListNode(int x) { val = x; }
  * }
  */
+
+// My second version (Recursive)
+// Runtime: 0 ms (faster than 100.00%); Memory Usage: 36 MB (less than 99.25%)
+/*
+    Curr        Last
+---------------------------
+     1          null
+     2          1 -> null
+     3          2 -> 1 -> null
+     4          3 -> 2 -> 1 -> null
+
+Curr.next = last
+
+*/
+
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        return recursive(head, null);
+    }
+    
+    public ListNode recursive(ListNode head, ListNode last) {
+        if(head == null)   return last;
+        
+        ListNode curr = new ListNode(head.val);
+        curr.next = last;
+        last = curr;
+        return recursive(head.next, last);
+    }
+}
+
 
 // Official Iterative Version
 // Runtime: 0 ms (faster than 100.00%); Memory Usage: 37.9 MB (less than 9.41%)

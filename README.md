@@ -24,7 +24,7 @@
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
 | 189 | Rotate_Array | `easy` `Array` | 2 |
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
-| 206 | Reverse Linked List | `easy` `Linked_List`  | 2 | 
+| 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
@@ -47,6 +47,7 @@
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
 | 125 | Valid_Palindrome |`Two Pointer` |
+| 206 | Reverse Linked List | `Official Recursive solution` |
 | 977 | Squares of a Sorted Array | `Better Sort` |
 
 ## Feb Statistics: 18 Problems (36 Versions)
@@ -107,7 +108,7 @@
 
 ## May Statistics
 ### Easy
-1. 206_Reverse Linked List: `easy` `Linked_List` `2 versions` 
+1. 206_Reverse Linked List: `easy` `Linked_List` `3 versions` 
 
 
  
