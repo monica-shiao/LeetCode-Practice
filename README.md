@@ -12,6 +12,7 @@
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
+| 92 | Reverse Linked List II | `medium` `Linked_List`  | 1 | 
 | 94 | Binary Tree Inorder Traversal | `medium` `Tree` `Stack` `Hash Table` | 1 |
 | 100 | Same Tree | `easy` `Tree` `DFS` | 2 |
 | 101 | Symmetric_Tree | `easy` `BFS` `DFS` `Tree` | 4 |
@@ -45,6 +46,7 @@
 | 3 | Longest Substring Without Repeating Characters | `Hash Table` `Sliding Window` |
 | 14 | Longest Common Prefix | `Divide & Conquer` `Binary Search Tree` `Horizontal scanning`|
 | 53 | Maximum Subarray | `Divide & Conquer`|
+| 92 | Reverse Linked List II | `Two Type of Official Version`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
 | 125 | Valid_Palindrome |`Two Pointer` |
 | 206 | Reverse Linked List | `Official Recursive solution` |
@@ -110,7 +112,5 @@
 ### Easy
 1. 206_Reverse Linked List: `easy` `Linked_List` `3 versions` 
 
-
- 
 ### Medium
-
+1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
