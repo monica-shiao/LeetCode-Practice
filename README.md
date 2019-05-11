@@ -27,6 +27,7 @@
 | 189 | Rotate_Array | `easy` `Array` | 2 |
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
+| 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
@@ -114,6 +115,8 @@
 1. 206_Reverse Linked List: `easy` `Linked_List` `3 versions` 
 
 2. 9_Palindrome Number: `easy` `Math` `2 versions` 
+
+3. 234_Palindrome Linked List: `easy` `Linked_List` `Two_Pointers` `4 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
