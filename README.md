@@ -8,6 +8,7 @@
 | 1 | Two Sum | `easy` `Array` `Hash Table` | 1 |
 | 3 | Longest Substring Without Repeating Characters | `medium` `String` `Two Pointer`| 3 |
 | 7 | Reverse Integer | `easy` `Math` | 1 |
+| 9 | Palindrome Number | `easy` `Math`  | 2 | 
 | 14 | Longest Common Prefix | `easy` `String`| 3 |
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
@@ -111,6 +112,8 @@
 ## May Statistics
 ### Easy
 1. 206_Reverse Linked List: `easy` `Linked_List` `3 versions` 
+
+2. 9_Palindrome Number: `easy` `Math` `2 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
