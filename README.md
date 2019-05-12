@@ -10,6 +10,7 @@
 | 7 | Reverse Integer | `easy` `Math` | 1 |
 | 9 | Palindrome Number | `easy` `Math`  | 2 | 
 | 14 | Longest Common Prefix | `easy` `String`| 3 |
+| 21 | Merge Two Sorted Lists | `easy` `Linked_List`  | 2 | 
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
@@ -118,6 +119,8 @@
 2. 9_Palindrome Number: `easy` `Math` `2 versions` 
 
 3. 234_Palindrome Linked List: `easy` `Linked_List` `Two_Pointers` `4 versions` 
+
+4. 21_Merge Two Sorted Lists: `easy` `Linked_List` `2 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
