@@ -28,6 +28,7 @@
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
+| 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
@@ -120,3 +121,5 @@
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
+
+2. 328_Odd Even Linked List: `medium` `Linked_List` `2 versions` 
