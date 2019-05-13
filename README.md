@@ -26,6 +26,7 @@
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
 | 189 | Rotate_Array | `easy` `Array` | 2 |
+| 198 | House Robber | `easy` `Dynamic_Programming`  | 1 | 
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
@@ -53,6 +54,7 @@
 | 92 | Reverse Linked List II | `Two Type of Official Version`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
 | 125 | Valid_Palindrome |`Two Pointer` |
+| 198 | House Robber | `Recursive Version` | 
 | 206 | Reverse Linked List | `Official Recursive solution` |
 | 977 | Squares of a Sorted Array | `Better Sort` |
 
@@ -121,6 +123,8 @@
 3. 234_Palindrome Linked List: `easy` `Linked_List` `Two_Pointers` `4 versions` 
 
 4. 21_Merge Two Sorted Lists: `easy` `Linked_List` `2 versions` 
+
+5. 198_House Robber: `easy` `Dynamic_Programming` `1 version` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
