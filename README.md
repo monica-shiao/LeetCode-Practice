@@ -1,5 +1,6 @@
 # LeetCode-Practice
 
+| 2 | Add Two Numbers | `medium` `Linked_List` `Math`  | 3 | 
 > **Script Environment: Python3**
 
 ## Solved Problem List
@@ -130,3 +131,5 @@
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
 
 2. 328_Odd Even Linked List: `medium` `Linked_List` `2 versions` 
+
+3. 2_Add Two Numbers: `medium` `Linked_List` `Math` `3 versions` 
