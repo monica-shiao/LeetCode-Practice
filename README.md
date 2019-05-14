@@ -16,6 +16,7 @@
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
+| 69 | Sqrt(x) | `easy` `Binary_Search` `Math`  | 1 | 
 | 92 | Reverse Linked List II | `medium` `Linked_List`  | 1 | 
 | 94 | Binary Tree Inorder Traversal | `medium` `Tree` `Stack` `Hash Table` | 1 |
 | 100 | Same Tree | `easy` `Tree` `DFS` | 2 |
@@ -127,6 +128,8 @@
 4. 21_Merge Two Sorted Lists: `easy` `Linked_List` `2 versions` 
 
 5. 198_House Robber: `easy` `Dynamic_Programming` `1 version` 
+
+6. 69_Sqrt(x): `easy` `Binary_Search` `Math` `1 version` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
