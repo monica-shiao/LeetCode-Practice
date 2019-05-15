@@ -32,6 +32,7 @@
 | 198 | House Robber | `easy` `Dynamic_Programming`  | 1 | 
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
+| 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
 | 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
@@ -139,3 +140,5 @@
 3. 2_Add Two Numbers: `medium` `Linked_List` `Math` `3 versions` 
 
 4. 19_Remove Nth Node From End of List: `medium` `Linked_List` `1 version` 
+
+5. 230_Kth Smallest Element in a BST: `medium` `Binary_Search` `Tree` `2 versions` 
