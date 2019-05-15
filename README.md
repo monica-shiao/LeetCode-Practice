@@ -34,6 +34,7 @@
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
 | 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
+| 283 | Move Zeroes | `easy` `Array` `Two_Pointers`  | 3 | 
 | 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
@@ -132,6 +133,8 @@
 
 6. 69_Sqrt(x): `easy` `Binary_Search` `Math` `1 version` 
 
+7. 283_Move Zeroes: `easy` `Array` `Two_Pointers` `3 versions` 
+
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
 
@@ -142,3 +145,5 @@
 4. 19_Remove Nth Node From End of List: `medium` `Linked_List` `1 version` 
 
 5. 230_Kth Smallest Element in a BST: `medium` `Binary_Search` `Tree` `2 versions` 
+
+
