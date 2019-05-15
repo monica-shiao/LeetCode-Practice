@@ -34,6 +34,7 @@
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
 | 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
+| 268 | Missing Number | `easy` `Array` `Math` `Bit_Manipulation`  | 2 | 
 | 283 | Move Zeroes | `easy` `Array` `Two_Pointers`  | 3 | 
 | 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
@@ -61,6 +62,7 @@
 | 125 | Valid_Palindrome |`Two Pointer` |
 | 198 | House Robber | `Recursive Version` | 
 | 206 | Reverse Linked List | `Official Recursive solution` |
+| 268 | Missing Number | `Bit Manipulation` |
 | 977 | Squares of a Sorted Array | `Better Sort` |
 
 ## Feb Statistics: 18 Problems (36 Versions)
@@ -134,6 +136,8 @@
 6. 69_Sqrt(x): `easy` `Binary_Search` `Math` `1 version` 
 
 7. 283_Move Zeroes: `easy` `Array` `Two_Pointers` `3 versions` 
+
+8. 268_Missing Number: `easy` `Array` `Math` `Bit_Manipulation` `2 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
