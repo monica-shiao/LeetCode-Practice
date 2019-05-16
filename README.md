@@ -17,6 +17,7 @@
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
 | 69 | Sqrt(x) | `easy` `Binary_Search` `Math`  | 1 | 
+| 75 | Sort Colors | `medium` `Array` `Sort` `Two_Pointers`  | 3 | 
 | 92 | Reverse Linked List II | `medium` `Linked_List`  | 1 | 
 | 94 | Binary Tree Inorder Traversal | `medium` `Tree` `Stack` `Hash Table` | 1 |
 | 100 | Same Tree | `easy` `Tree` `DFS` | 2 |
@@ -149,5 +150,7 @@
 4. 19_Remove Nth Node From End of List: `medium` `Linked_List` `1 version` 
 
 5. 230_Kth Smallest Element in a BST: `medium` `Binary_Search` `Tree` `2 versions` 
+
+6. 75_Sort Colors: `medium` `Array` `Sort` `Two_Pointers` `3 versions` 
 
 
