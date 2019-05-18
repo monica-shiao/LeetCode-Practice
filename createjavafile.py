@@ -48,7 +48,7 @@ class LeetCode():
 		response = requests.post(url, data=payload, headers=headers).json()
 
 		reg = re.compile('<[^>]*>')
-		self.pb_content = reg.sub('',response['data']['question']['content']).replace("&amp;","&").replace("&quot;", '"').replace("&apos;", "'").replace("&gt;",">").replace("&lt;", "<").replace("&nbsp;", "").replace("&le;", "<=").replace("&ge;", ">=").replace("&#39;", "'")
+		self.pb_content = reg.sub('',response['data']['question']['content']).replace("&amp;","&").replace("&quot;", '"').replace("&apos;", "'").replace("&gt;",">").replace("&lt;", "<").replace("&nbsp;", "").replace("&le;", "<=").replace("&ge;", ">=").replace("&#39;", "'").replace("&ne;", "≠").replace("&infin;", "∞")
 
 
 	def getFileSavedLocation(self):

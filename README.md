@@ -1,12 +1,12 @@
 # LeetCode-Practice
 
-| 2 | Add Two Numbers | `medium` `Linked_List` `Math`  | 3 | 
 > **Script Environment: Python3**
 
 ## Solved Problem List
 |  No. | Title | Tags | Version Nums |
 | -------- | -------- | -------- | -------- |
 | 1 | Two Sum | `easy` `Array` `Hash Table` | 1 |
+| 2 | Add Two Numbers | `medium` `Linked_List` `Math`  | 3 | 
 | 3 | Longest Substring Without Repeating Characters | `medium` `String` `Two Pointer`| 3 |
 | 7 | Reverse Integer | `easy` `Math` | 1 |
 | 9 | Palindrome Number | `easy` `Math`  | 2 | 
@@ -28,6 +28,7 @@
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
 | 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
+| 162 | Find Peak Element | `medium` `Array` `Binary_Search`  | 2 | 
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
 | 189 | Rotate_Array | `easy` `Array` | 2 |
 | 198 | House Robber | `easy` `Dynamic_Programming`  | 1 | 
@@ -152,5 +153,7 @@
 5. 230_Kth Smallest Element in a BST: `medium` `Binary_Search` `Tree` `2 versions` 
 
 6. 75_Sort Colors: `medium` `Array` `Sort` `Two_Pointers` `3 versions` 
+
+7. 162_Find Peak Element: `medium` `Array` `Binary_Search` `2 versions` 
 
 
