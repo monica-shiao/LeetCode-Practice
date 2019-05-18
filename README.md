@@ -40,6 +40,7 @@
 | 283 | Move Zeroes | `easy` `Array` `Two_Pointers`  | 3 | 
 | 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
+| 380 | Insert Delete GetRandom O(1) | `medium` `Array` `Hash_Table`  | 2 | 
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
@@ -155,5 +156,7 @@
 6. 75_Sort Colors: `medium` `Array` `Sort` `Two_Pointers` `3 versions` 
 
 7. 162_Find Peak Element: `medium` `Array` `Binary_Search` `2 versions` 
+
+8. 380_Insert Delete GetRandom O(1): `medium` `Array` `Hash_Table` `2 versions` 
 
 
