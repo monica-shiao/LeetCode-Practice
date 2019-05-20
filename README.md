@@ -13,6 +13,7 @@
 | 14 | Longest Common Prefix | `easy` `String`| 3 |
 | 19 | Remove Nth Node From End of List | `medium` `Linked_List`  | 1 | 
 | 21 | Merge Two Sorted Lists | `easy` `Linked_List`  | 2 | 
+| 29 | Divide Two Integers | `medium` `Math` `Binary_Search`  | 2 | 
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
@@ -60,6 +61,7 @@
 | All | Hash Table problems | `Hash Table` |
 | 3 | Longest Substring Without Repeating Characters | `Hash Table` `Sliding Window` |
 | 14 | Longest Common Prefix | `Divide & Conquer` `Binary Search Tree` `Horizontal scanning`|
+| 29 | Divide Two Integers | `Binary_Search` |
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 92 | Reverse Linked List II | `Two Type of Official Version`|
 | 94 | Binary Tree Inorder Traversal | `Morris Traversal` |
@@ -161,5 +163,7 @@
 7. 162_Find Peak Element: `medium` `Array` `Binary_Search` `2 versions` 
 
 8. 380_Insert Delete GetRandom O(1): `medium` `Array` `Hash_Table` `2 versions` 
+
+9. 29_Divide Two Integers: `medium` `Math` `Binary_Search` `2 versions` 
 
 
