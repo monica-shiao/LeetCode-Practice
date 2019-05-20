@@ -28,6 +28,7 @@
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
 | 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
+| 155 | Min Stack | `easy` `Stack`  | 2 | 
 | 162 | Find Peak Element | `medium` `Array` `Binary_Search`  | 2 | 
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
 | 189 | Rotate_Array | `easy` `Array` | 2 |
@@ -141,6 +142,8 @@
 7. 283_Move Zeroes: `easy` `Array` `Two_Pointers` `3 versions` 
 
 8. 268_Missing Number: `easy` `Array` `Math` `Bit_Manipulation` `2 versions` 
+
+9. 155_Min Stack: `easy` `Stack` `2 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
