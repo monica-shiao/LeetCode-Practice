@@ -11,6 +11,7 @@
 | 7 | Reverse Integer | `easy` `Math` | 1 |
 | 9 | Palindrome Number | `easy` `Math`  | 2 | 
 | 14 | Longest Common Prefix | `easy` `String`| 3 |
+| 17 | Letter Combinations of a Phone Number | `medium` `String` `Backtracking`  | 1 | 
 | 19 | Remove Nth Node From End of List | `medium` `Linked_List`  | 1 | 
 | 21 | Merge Two Sorted Lists | `easy` `Linked_List`  | 2 | 
 | 29 | Divide Two Integers | `medium` `Math` `Binary_Search`  | 2 | 
@@ -61,6 +62,7 @@
 | All | Hash Table problems | `Hash Table` |
 | 3 | Longest Substring Without Repeating Characters | `Hash Table` `Sliding Window` |
 | 14 | Longest Common Prefix | `Divide & Conquer` `Binary Search Tree` `Horizontal scanning`|
+| 17 | Letter Combinations of a Phone Number | `Backtracking` |
 | 29 | Divide Two Integers | `Binary_Search` |
 | 53 | Maximum Subarray | `Divide & Conquer`|
 | 92 | Reverse Linked List II | `Two Type of Official Version`|
@@ -165,5 +167,7 @@
 8. 380_Insert Delete GetRandom O(1): `medium` `Array` `Hash_Table` `2 versions` 
 
 9. 29_Divide Two Integers: `medium` `Math` `Binary_Search` `2 versions` 
+
+10. 17_Letter Combinations of a Phone Number: `medium` `String` `Backtracking` `1 version` 
 
 
