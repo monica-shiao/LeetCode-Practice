@@ -13,6 +13,7 @@
 | 14 | Longest Common Prefix | `easy` `String`| 3 |
 | 17 | Letter Combinations of a Phone Number | `medium` `String` `Backtracking`  | 1 | 
 | 19 | Remove Nth Node From End of List | `medium` `Linked_List`  | 1 | 
+| 20 | Valid Parentheses | `easy` `String` `Stack`  | 2 | 
 | 21 | Merge Two Sorted Lists | `easy` `Linked_List`  | 2 | 
 | 29 | Divide Two Integers | `medium` `Math` `Binary_Search`  | 2 | 
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
@@ -148,6 +149,8 @@
 8. 268_Missing Number: `easy` `Array` `Math` `Bit_Manipulation` `2 versions` 
 
 9. 155_Min Stack: `easy` `Stack` `2 versions` 
+
+10. 20_Valid Parentheses: `easy` `String` `Stack` `2 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
