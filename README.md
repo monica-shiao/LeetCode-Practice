@@ -40,6 +40,7 @@
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
 | 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
+| 242 | Valid Anagram | `easy` `Hash_Table` `Sort`  | 2 | 
 | 268 | Missing Number | `easy` `Array` `Math` `Bit_Manipulation`  | 2 | 
 | 283 | Move Zeroes | `easy` `Array` `Two_Pointers`  | 3 | 
 | 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
@@ -151,6 +152,8 @@
 9. 155_Min Stack: `easy` `Stack` `2 versions` 
 
 10. 20_Valid Parentheses: `easy` `String` `Stack` `2 versions` 
+
+11. 242_Valid Anagram: `easy` `Hash_Table` `Sort` `2 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
