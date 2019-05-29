@@ -54,6 +54,7 @@
 | 771 | Jewels and Stones | `easy` `Hash Table` | 2 |
 | 876 | Middle of the Linked List | `easy` `Linked_List`  | 3 | 
 | 897 | Increasing Order Search Tree | `easy` `Tree` `DFS`  | 2 | 
+| 917 | Reverse Only Letters | `easy` `String`  | 2 | 
 | 922 | Sort Array By Parity II | `easy` `Array` | 3 |
 | 938 | Range Sum of BST | `easy` `BFS` `DFS` `Tree`  | 3 | 
 | 977 | Squares of a Sorted Array | `easy` `Array` | 2 |
@@ -154,6 +155,8 @@
 10. 20_Valid Parentheses: `easy` `String` `Stack` `2 versions` 
 
 11. 242_Valid Anagram: `easy` `Hash_Table` `Sort` `2 versions` 
+
+12. 917_Reverse Only Letters: `easy` `String` `2 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
