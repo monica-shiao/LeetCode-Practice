@@ -47,6 +47,7 @@
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
 | 380 | Insert Delete GetRandom O(1) | `medium` `Array` `Hash_Table`  | 2 | 
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
+| 509 | Fibonacci Number | `easy` `Array`  | 4 | 
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
 | 709 | To Lower Case | `easy` `String` | 2 |
@@ -157,6 +158,8 @@
 11. 242_Valid Anagram: `easy` `Hash_Table` `Sort` `2 versions` 
 
 12. 917_Reverse Only Letters: `easy` `String` `2 versions` 
+
+13. 509_Fibonacci Number: `easy` `Array` `4 versions` 
 
 ### Medium
 1. 92_Reverse Linked List II: `medium` `Linked_List` `1 version` 
