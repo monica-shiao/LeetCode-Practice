@@ -28,6 +28,7 @@
 | 108 | Convert Sorted Array to Binary Search Tree | `easy` `DFS` `Tree`  | 1 | 
 | 119 | Pascal's_Triangle_II | `easy` `Array` | 2 |
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
+| 136 | Single Number | `easy` `Bit_Manipulation` `Hash_Table`  | 2 | 
 | 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
 | 155 | Min Stack | `easy` `Stack`  | 2 | 
@@ -185,6 +186,8 @@
 ## August Statistics
 ### Easy
 1. 169_Majority Element: `easy` `Array` `1 version` 
+
+2. 136_Single Number: `easy` `Bit_Manipulation` `Hash_Table` `2 versions` 
 
 ### Medium
 
