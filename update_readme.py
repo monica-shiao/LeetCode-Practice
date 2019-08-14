@@ -22,7 +22,7 @@ class ReadMe():
 	            self.level = self.difficultys[question['difficulty']['level'] - 1]
 	            break
 	    self.getTagsAndVersion()
-	    self.UpdateReadme(pb_num)
+	    self.updateReadme(pb_num)
 
 	def getTagsAndVersion(self):
 		print(''.join(str(i) + " : " + self.file_folder[i] + "\n" for i in range(len(self.file_folder))))
@@ -35,7 +35,7 @@ class ReadMe():
 		return 
 
 
-	def UpdateReadme(self, pb_num ):
+	def updateReadme(self, pb_num ):
 		solved_pb_list = "| " + str(pb_num) + " | " + self.pb_name + " | `" + self.level + "` " + self.file_tag + " | " + str(self.version_num) + " | "
 		print("solved_pb_list is : " + solved_pb_list)
 		readme_file = open("./README.md")
@@ -53,7 +53,7 @@ class ReadMe():
 
 			cnt += 1
 
-		column_num , No = self.UpdateMonth(lines)
+		column_num , No = self.updateMonth(lines)
 		month_list = str(No) + ". " + str(pb_num)+ "_" + self.pb_name + ": `" + self.level + "` " + self.file_tag + "`" + str(self.version_num)
 		month_list +=  " versions` \n" if int(self.version_num) > 1 else " version` \n"
 		lines.insert(column_num, month_list)
@@ -65,7 +65,7 @@ class ReadMe():
 		print("insert success~~~")
 
 
-	def UpdateMonth(self, lines):
+	def updateMonth(self, lines):
 		time = datetime.datetime.now()
 		flag = 0
 		column_num = 0

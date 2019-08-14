@@ -1,5 +1,4 @@
 # LeetCode-Practice
-
 > **Script Environment: Python3**
 
 ## Solved Problem List
@@ -34,6 +33,7 @@
 | 155 | Min Stack | `easy` `Stack`  | 2 | 
 | 162 | Find Peak Element | `medium` `Array` `Binary_Search`  | 2 | 
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
+| 169 | Majority Element | `easy` `Array`  | 1 | 
 | 189 | Rotate_Array | `easy` `Array` | 2 |
 | 198 | House Robber | `easy` `Dynamic_Programming`  | 1 | 
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
@@ -181,5 +181,12 @@
 9. 29_Divide Two Integers: `medium` `Math` `Binary_Search` `2 versions` 
 
 10. 17_Letter Combinations of a Phone Number: `medium` `String` `Backtracking` `1 version` 
+
+## August Statistics
+### Easy
+1. 169_Majority Element: `easy` `Array` `1 version` 
+
+### Medium
+
 
 
