@@ -9,6 +9,7 @@
 | 3 | Longest Substring Without Repeating Characters | `medium` `String` `Two Pointer`| 3 |
 | 7 | Reverse Integer | `easy` `Math` | 1 |
 | 9 | Palindrome Number | `easy` `Math`  | 2 | 
+| 13 | Roman to Integer | `easy` `Math` `String`  | 2 | 
 | 14 | Longest Common Prefix | `easy` `String`| 3 |
 | 17 | Letter Combinations of a Phone Number | `medium` `String` `Backtracking`  | 1 | 
 | 19 | Remove Nth Node From End of List | `medium` `Linked_List`  | 1 | 
@@ -194,6 +195,8 @@
 3. 412_Fizz Buzz: `easy` `Math` `1 version` 
 
 4. 237_Delete Node in a Linked List: `easy` `Linked_List` `1 version` 
+
+5. 13_Roman to Integer: `easy` `Math` `String` `2 versions` 
 
 ### Medium
 
