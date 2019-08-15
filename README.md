@@ -40,6 +40,7 @@
 | 198 | House Robber | `easy` `Dynamic_Programming`  | 1 | 
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
+| 217 | Contains Duplicate | `easy` `Hash_Table` `Array`  | 2 | 
 | 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
 | 237 | Delete Node in a Linked List | `easy` `Linked_List`  | 1 | 
@@ -197,6 +198,8 @@
 4. 237_Delete Node in a Linked List: `easy` `Linked_List` `1 version` 
 
 5. 13_Roman to Integer: `easy` `Math` `String` `2 versions` 
+
+6. 217_Contains Duplicate: `easy` `Hash_Table` `Array` `2 versions` 
 
 ### Medium
 
