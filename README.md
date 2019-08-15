@@ -36,6 +36,7 @@
 | 162 | Find Peak Element | `medium` `Array` `Binary_Search`  | 2 | 
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
 | 169 | Majority Element | `easy` `Array`  | 1 | 
+| 171 | Excel Sheet Column Number | `easy` `Math`  | 1 | 
 | 189 | Rotate_Array | `easy` `Array` | 2 |
 | 198 | House Robber | `easy` `Dynamic_Programming`  | 1 | 
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
@@ -200,6 +201,8 @@
 5. 13_Roman to Integer: `easy` `Math` `String` `2 versions` 
 
 6. 217_Contains Duplicate: `easy` `Hash_Table` `Array` `2 versions` 
+
+7. 171_Excel Sheet Column Number: `easy` `Math` `1 version` 
 
 ### Medium
 
