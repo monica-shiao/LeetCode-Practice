@@ -48,6 +48,7 @@
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
 | 380 | Insert Delete GetRandom O(1) | `medium` `Array` `Hash_Table`  | 2 | 
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
+| 412 | Fizz Buzz | `easy` `Math`  | 1 | 
 | 509 | Fibonacci Number | `easy` `Array`  | 4 | 
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
@@ -188,6 +189,8 @@
 1. 169_Majority Element: `easy` `Array` `1 version` 
 
 2. 136_Single Number: `easy` `Bit_Manipulation` `Hash_Table` `2 versions` 
+
+3. 412_Fizz Buzz: `easy` `Math` `1 version` 
 
 ### Medium
 
