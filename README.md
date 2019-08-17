@@ -50,6 +50,7 @@
 | 283 | Move Zeroes | `easy` `Array` `Two_Pointers`  | 3 | 
 | 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
+| 350 | Intersection of Two Arrays II | `easy` `Two_Pointers` `Sort`  | 2 | 
 | 380 | Insert Delete GetRandom O(1) | `medium` `Array` `Hash_Table`  | 2 | 
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
 | 412 | Fizz Buzz | `easy` `Math`  | 1 | 
@@ -203,6 +204,8 @@
 6. 217_Contains Duplicate: `easy` `Hash_Table` `Array` `2 versions` 
 
 7. 171_Excel Sheet Column Number: `easy` `Math` `1 version` 
+
+8. 350_Intersection of Two Arrays II: `easy` `Two_Pointers` `Sort` `2 versions` 
 
 ### Medium
 
