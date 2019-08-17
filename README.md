@@ -27,6 +27,7 @@
 | 101 | Symmetric_Tree | `easy` `BFS` `DFS` `Tree` | 4 |
 | 104 | Maximum_Depth_of_Binary_Tree | `easy` `BFS` `DFS` `Tree` | 3 |
 | 108 | Convert Sorted Array to Binary Search Tree | `easy` `DFS` `Tree`  | 1 | 
+| 118 | Pascal's Triangle | `easy` `Array` `Dynamic_Programming`  | 1 | 
 | 119 | Pascal's_Triangle_II | `easy` `Array` | 2 |
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
 | 136 | Single Number | `easy` `Bit_Manipulation` `Hash_Table`  | 2 | 
@@ -206,6 +207,8 @@
 7. 171_Excel Sheet Column Number: `easy` `Math` `1 version` 
 
 8. 350_Intersection of Two Arrays II: `easy` `Two_Pointers` `Sort` `2 versions` 
+
+9. 118_Pascal's Triangle: `easy` `Array` `Dynamic_Programming` `1 version` 
 
 ### Medium
 
