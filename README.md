@@ -1,4 +1,5 @@
 # LeetCode-Practice
+
 > **Script Environment: Python3**
 
 ## Solved Problem List
@@ -25,6 +26,7 @@
 | 94 | Binary Tree Inorder Traversal | `medium` `Tree` `Stack` `Hash Table` | 1 |
 | 100 | Same Tree | `easy` `Tree` `DFS` | 2 |
 | 101 | Symmetric_Tree | `easy` `BFS` `DFS` `Tree` | 4 |
+| 102 | Binary Tree Level Order Traversal | `medium` `BFS` `Tree`  | 1 | 
 | 104 | Maximum_Depth_of_Binary_Tree | `easy` `BFS` `DFS` `Tree` | 3 |
 | 108 | Convert Sorted Array to Binary Search Tree | `easy` `DFS` `Tree`  | 1 | 
 | 118 | Pascal's Triangle | `easy` `Array` `Dynamic_Programming`  | 1 | 
@@ -211,6 +213,8 @@
 9. 118_Pascal's Triangle: `easy` `Array` `Dynamic_Programming` `1 version` 
 
 ### Medium
+1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
+
 
 
 
