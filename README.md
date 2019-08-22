@@ -52,6 +52,7 @@
 | 242 | Valid Anagram | `easy` `Hash_Table` `Sort`  | 2 | 
 | 268 | Missing Number | `easy` `Array` `Math` `Bit_Manipulation`  | 2 | 
 | 283 | Move Zeroes | `easy` `Array` `Two_Pointers`  | 3 | 
+| 326 | Power of Three | `easy` `Math`  | 1 | 
 | 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
 | 350 | Intersection of Two Arrays II | `easy` `Two_Pointers` `Sort`  | 2 | 
@@ -214,6 +215,8 @@
 9. 118_Pascal's Triangle: `easy` `Array` `Dynamic_Programming` `1 version` 
 
 10. 121_Best Time to Buy and Sell Stock: `easy` `Array` `2 versions` 
+
+11. 326_Power of Three: `easy` `Math` `1 version` 
 
 ### Medium
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
