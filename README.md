@@ -16,6 +16,7 @@
 | 19 | Remove Nth Node From End of List | `medium` `Linked_List`  | 1 | 
 | 20 | Valid Parentheses | `easy` `String` `Stack`  | 2 | 
 | 21 | Merge Two Sorted Lists | `easy` `Linked_List`  | 2 | 
+| 26 | Remove Duplicates from Sorted Array | `easy` `Array` `Two_Pointers`  | 1 | 
 | 29 | Divide Two Integers | `medium` `Math` `Binary_Search`  | 2 | 
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
@@ -217,6 +218,8 @@
 10. 121_Best Time to Buy and Sell Stock: `easy` `Array` `2 versions` 
 
 11. 326_Power of Three: `easy` `Math` `1 version` 
+
+12. 26_Remove Duplicates from Sorted Array: `easy` `Array` `Two_Pointers` `1 version` 
 
 ### Medium
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
