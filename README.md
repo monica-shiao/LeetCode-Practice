@@ -31,6 +31,7 @@
 | 108 | Convert Sorted Array to Binary Search Tree | `easy` `DFS` `Tree`  | 1 | 
 | 118 | Pascal's Triangle | `easy` `Array` `Dynamic_Programming`  | 1 | 
 | 119 | Pascal's_Triangle_II | `easy` `Array` | 2 |
+| 121 | Best Time to Buy and Sell Stock | `easy` `Array`  | 2 | 
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
 | 136 | Single Number | `easy` `Bit_Manipulation` `Hash_Table`  | 2 | 
 | 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
@@ -211,6 +212,8 @@
 8. 350_Intersection of Two Arrays II: `easy` `Two_Pointers` `Sort` `2 versions` 
 
 9. 118_Pascal's Triangle: `easy` `Array` `Dynamic_Programming` `1 version` 
+
+10. 121_Best Time to Buy and Sell Stock: `easy` `Array` `2 versions` 
 
 ### Medium
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
