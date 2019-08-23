@@ -35,6 +35,7 @@
 | 121 | Best Time to Buy and Sell Stock | `easy` `Array`  | 2 | 
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
 | 136 | Single Number | `easy` `Bit_Manipulation` `Hash_Table`  | 2 | 
+| 141 | Linked List Cycle | `easy` `Linked_List` `Two_Pointers`  | 2 | 
 | 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
 | 155 | Min Stack | `easy` `Stack`  | 2 | 
@@ -223,6 +224,8 @@
 12. 26_Remove Duplicates from Sorted Array: `easy` `Array` `Two_Pointers` `1 version` 
 
 13. 203_Remove Linked List Elements: `easy` `Linked_List` `2 versions` 
+
+14. 141_Linked List Cycle: `easy` `Linked_List` `Two_Pointers` `2 versions` 
 
 ### Medium
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
