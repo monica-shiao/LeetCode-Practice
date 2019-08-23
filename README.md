@@ -45,6 +45,7 @@
 | 189 | Rotate_Array | `easy` `Array` | 2 |
 | 198 | House Robber | `easy` `Dynamic_Programming`  | 1 | 
 | 202 | Happy Number | `easy` `Math` `Hash Table` | 2 |
+| 203 | Remove Linked List Elements | `easy` `Linked_List`  | 2 | 
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
 | 217 | Contains Duplicate | `easy` `Hash_Table` `Array`  | 2 | 
 | 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
@@ -220,6 +221,8 @@
 11. 326_Power of Three: `easy` `Math` `1 version` 
 
 12. 26_Remove Duplicates from Sorted Array: `easy` `Array` `Two_Pointers` `1 version` 
+
+13. 203_Remove Linked List Elements: `easy` `Linked_List` `2 versions` 
 
 ### Medium
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
