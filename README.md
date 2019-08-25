@@ -28,6 +28,7 @@
 | 100 | Same Tree | `easy` `Tree` `DFS` | 2 |
 | 101 | Symmetric_Tree | `easy` `BFS` `DFS` `Tree` | 4 |
 | 102 | Binary Tree Level Order Traversal | `medium` `BFS` `Tree`  | 1 | 
+| 103 | Binary Tree Zigzag Level Order Traversal | `medium` `Tree` `BFS` `Stack`  | 2 | 
 | 104 | Maximum_Depth_of_Binary_Tree | `easy` `BFS` `DFS` `Tree` | 3 |
 | 108 | Convert Sorted Array to Binary Search Tree | `easy` `DFS` `Tree`  | 1 | 
 | 118 | Pascal's Triangle | `easy` `Array` `Dynamic_Programming`  | 1 | 
@@ -232,6 +233,8 @@
 
 ### Medium
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
+
+2. 103_Binary Tree Zigzag Level Order Traversal: `medium` `Tree` `BFS` `Stack` `2 versions` 
 
 
 
