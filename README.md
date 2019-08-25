@@ -65,6 +65,7 @@
 | 509 | Fibonacci Number | `easy` `Array`  | 4 | 
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
+| 700 | Search in a Binary Search Tree | `easy` `Tree`  | 1 | 
 | 709 | To Lower Case | `easy` `String` | 2 |
 | 739 | Daily Temperatures | `medium` `Stack` `Hash Table` | 3 |
 | 771 | Jewels and Stones | `easy` `Hash Table` | 2 |
@@ -226,6 +227,8 @@
 13. 203_Remove Linked List Elements: `easy` `Linked_List` `2 versions` 
 
 14. 141_Linked List Cycle: `easy` `Linked_List` `Two_Pointers` `2 versions` 
+
+15. 700_Search in a Binary Search Tree: `easy` `Tree` `1 version` 
 
 ### Medium
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
