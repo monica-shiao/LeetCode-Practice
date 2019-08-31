@@ -20,6 +20,7 @@
 | 29 | Divide Two Integers | `medium` `Math` `Binary_Search`  | 2 | 
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
+| 56 | Merge Intervals | `medium` `Array` `Sort`  | 3 | 
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
 | 69 | Sqrt(x) | `easy` `Binary_Search` `Math`  | 1 | 
 | 75 | Sort Colors | `medium` `Array` `Sort` `Two_Pointers`  | 3 | 
@@ -235,6 +236,8 @@
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
 
 2. 103_Binary Tree Zigzag Level Order Traversal: `medium` `Tree` `BFS` `Stack` `2 versions` 
+
+3. 56_Merge Intervals: `medium` `Array` `Sort` `3 versions` 
 
 
 
