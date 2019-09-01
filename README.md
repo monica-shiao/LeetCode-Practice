@@ -41,6 +41,7 @@
 | 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
 | 155 | Min Stack | `easy` `Stack`  | 2 | 
+| 160 | Intersection of Two Linked Lists | `easy` `Linked_List` `Two_Pointers` `Hash_Table`  | 2 | 
 | 162 | Find Peak Element | `medium` `Array` `Binary_Search`  | 2 | 
 | 167 | Two_Sum_II | `easy` `Array` `Binary Search` `Two Pointer` | 2 |
 | 169 | Majority Element | `easy` `Array`  | 1 | 
@@ -231,6 +232,8 @@
 14. 141_Linked List Cycle: `easy` `Linked_List` `Two_Pointers` `2 versions` 
 
 15. 700_Search in a Binary Search Tree: `easy` `Tree` `1 version` 
+
+16. 160_Intersection of Two Linked Lists: `easy` `Linked_List` `Two_Pointers` `Hash_Table` `2 versions` 
 
 ### Medium
 1. 102_Binary Tree Level Order Traversal: `medium` `BFS` `Tree` `1 version` 
