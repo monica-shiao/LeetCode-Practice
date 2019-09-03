@@ -38,6 +38,7 @@
 | 125 | Valid_Palindrome | `easy` `String` `Two Pointer` | 2 |
 | 136 | Single Number | `easy` `Bit_Manipulation` `Hash_Table`  | 2 | 
 | 141 | Linked List Cycle | `easy` `Linked_List` `Two_Pointers`  | 2 | 
+| 148 | Sort List | `medium` `Linked_List` `Sort`  | 2 | 
 | 151 | Reverse_Words_in_a_String | `medium` `String` | 3 |
 | 152 | Maximum_Product_Subarray | `medium` `Array` `Dynamic Programming` | 2 |
 | 155 | Min Stack | `easy` `Stack`  | 2 | 
@@ -242,6 +243,13 @@
 
 3. 56_Merge Intervals: `medium` `Array` `Sort` `3 versions` 
 
+
+## September Statistics
+### Easy
+
+
+### Medium
+1. 148_Sort List: `medium` `Linked_List` `Sort` `2 versions` 
 
 
 
