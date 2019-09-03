@@ -62,6 +62,7 @@
 | 326 | Power of Three | `easy` `Math`  | 1 | 
 | 328 | Odd Even Linked List | `medium` `Linked_List`  | 2 | 
 | 344 | Reverse_String | `easy` `String` `Two Pointer` | 1 |
+| 347 | Top K Frequent Elements | `medium` `Hash_Table` `Heap`  | 3 | 
 | 350 | Intersection of Two Arrays II | `easy` `Two_Pointers` `Sort`  | 2 | 
 | 380 | Insert Delete GetRandom O(1) | `medium` `Array` `Hash_Table`  | 2 | 
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
@@ -250,6 +251,8 @@
 
 ### Medium
 1. 148_Sort List: `medium` `Linked_List` `Sort` `2 versions` 
+
+2. 347_Top K Frequent Elements: `medium` `Hash_Table` `Heap` `3 versions` 
 
 
 
