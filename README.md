@@ -53,6 +53,7 @@
 | 203 | Remove Linked List Elements | `easy` `Linked_List`  | 2 | 
 | 206 | Reverse Linked List | `easy` `Linked_List`  | 3 | 
 | 217 | Contains Duplicate | `easy` `Hash_Table` `Array`  | 2 | 
+| 226 | Invert Binary Tree | `easy` `Tree`  | 1 | 
 | 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
 | 237 | Delete Node in a Linked List | `easy` `Linked_List`  | 1 | 
@@ -247,6 +248,7 @@
 
 ## September Statistics
 ### Easy
+1. 226_Invert Binary Tree: `easy` `Tree` `1 version` 
 
 
 ### Medium
