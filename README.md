@@ -70,6 +70,7 @@
 | 412 | Fizz Buzz | `easy` `Math`  | 1 | 
 | 509 | Fibonacci Number | `easy` `Array`  | 4 | 
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
+| 589 | N-ary Tree Preorder Traversal | `easy` `Tree`  | 2 | 
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
 | 700 | Search in a Binary Search Tree | `easy` `Tree`  | 1 | 
 | 709 | To Lower Case | `easy` `String` | 2 |
@@ -249,6 +250,8 @@
 ## September Statistics
 ### Easy
 1. 226_Invert Binary Tree: `easy` `Tree` `1 version` 
+
+2. 589_N-ary Tree Preorder Traversal: `easy` `Tree` `2 versions` 
 
 
 ### Medium
