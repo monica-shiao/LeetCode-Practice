@@ -68,6 +68,7 @@
 | 380 | Insert Delete GetRandom O(1) | `medium` `Array` `Hash_Table`  | 2 | 
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
 | 412 | Fizz Buzz | `easy` `Math`  | 1 | 
+| 429 | N-ary Tree Level Order Traversal | `easy` `Tree` `BFS`  | 2 | 
 | 509 | Fibonacci Number | `easy` `Array`  | 4 | 
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 589 | N-ary Tree Preorder Traversal | `easy` `Tree`  | 2 | 
@@ -252,6 +253,8 @@
 1. 226_Invert Binary Tree: `easy` `Tree` `1 version` 
 
 2. 589_N-ary Tree Preorder Traversal: `easy` `Tree` `2 versions` 
+
+3. 429_N-ary Tree Level Order Traversal: `easy` `Tree` `BFS` `2 versions` 
 
 
 ### Medium
