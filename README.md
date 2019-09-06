@@ -69,6 +69,7 @@
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
 | 412 | Fizz Buzz | `easy` `Math`  | 1 | 
 | 429 | N-ary Tree Level Order Traversal | `easy` `Tree` `BFS`  | 2 | 
+| 448 | Find All Numbers Disappeared in an Array | `easy` `Array`  | 1 | 
 | 509 | Fibonacci Number | `easy` `Array`  | 4 | 
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 589 | N-ary Tree Preorder Traversal | `easy` `Tree`  | 2 | 
@@ -255,6 +256,8 @@
 2. 589_N-ary Tree Preorder Traversal: `easy` `Tree` `2 versions` 
 
 3. 429_N-ary Tree Level Order Traversal: `easy` `Tree` `BFS` `2 versions` 
+
+4. 448_Find All Numbers Disappeared in an Array: `easy` `Array` `1 version` 
 
 
 ### Medium
