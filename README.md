@@ -23,6 +23,7 @@
 | 56 | Merge Intervals | `medium` `Array` `Sort`  | 3 | 
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
 | 69 | Sqrt(x) | `easy` `Binary_Search` `Math`  | 1 | 
+| 70 | Climbing Stairs | `easy` `Dynamic_Programming`  | 2 | 
 | 75 | Sort Colors | `medium` `Array` `Sort` `Two_Pointers`  | 3 | 
 | 92 | Reverse Linked List II | `medium` `Linked_List`  | 1 | 
 | 94 | Binary Tree Inorder Traversal | `medium` `Tree` `Stack` `Hash Table` | 1 |
@@ -258,6 +259,8 @@
 3. 429_N-ary Tree Level Order Traversal: `easy` `Tree` `BFS` `2 versions` 
 
 4. 448_Find All Numbers Disappeared in an Array: `easy` `Array` `1 version` 
+
+5. 70_Climbing Stairs: `easy` `Dynamic_Programming` `2 versions` 
 
 
 ### Medium
