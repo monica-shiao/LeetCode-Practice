@@ -8,6 +8,7 @@
 | 1 | Two Sum | `easy` `Array` `Hash Table` | 1 |
 | 2 | Add Two Numbers | `medium` `Linked_List` `Math`  | 3 | 
 | 3 | Longest Substring Without Repeating Characters | `medium` `String` `Two Pointer`| 3 |
+| 5 | Longest Palindromic Substring | `medium` `String` `Dynamic_Programming`  | 2 | 
 | 7 | Reverse Integer | `easy` `Math` | 1 |
 | 9 | Palindrome Number | `easy` `Math`  | 2 | 
 | 13 | Roman to Integer | `easy` `Math` `String`  | 2 | 
@@ -270,6 +271,8 @@
 2. 347_Top K Frequent Elements: `medium` `Hash_Table` `Heap` `3 versions` 
 
 3. 647_Palindromic Substrings: `medium` `String` `Dynamic_Programming` `1 version` 
+
+4. 5_Longest Palindromic Substring: `medium` `String` `Dynamic_Programming` `2 versions` 
 
 
 
