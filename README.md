@@ -75,6 +75,7 @@
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 589 | N-ary Tree Preorder Traversal | `easy` `Tree`  | 2 | 
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
+| 647 | Palindromic Substrings | `medium` `String` `Dynamic_Programming`  | 1 | 
 | 700 | Search in a Binary Search Tree | `easy` `Tree`  | 1 | 
 | 709 | To Lower Case | `easy` `String` | 2 |
 | 739 | Daily Temperatures | `medium` `Stack` `Hash Table` | 3 |
@@ -267,6 +268,8 @@
 1. 148_Sort List: `medium` `Linked_List` `Sort` `2 versions` 
 
 2. 347_Top K Frequent Elements: `medium` `Hash_Table` `Heap` `3 versions` 
+
+3. 647_Palindromic Substrings: `medium` `String` `Dynamic_Programming` `1 version` 
 
 
 
