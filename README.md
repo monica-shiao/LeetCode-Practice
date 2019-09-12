@@ -73,6 +73,7 @@
 | 429 | N-ary Tree Level Order Traversal | `easy` `Tree` `BFS`  | 2 | 
 | 448 | Find All Numbers Disappeared in an Array | `easy` `Array`  | 1 | 
 | 509 | Fibonacci Number | `easy` `Array`  | 4 | 
+| 516 | Longest Palindromic Subsequence | `medium` `Dynamic_Programming`  | 2 | 
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
 | 589 | N-ary Tree Preorder Traversal | `easy` `Tree`  | 2 | 
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
@@ -273,6 +274,8 @@
 3. 647_Palindromic Substrings: `medium` `String` `Dynamic_Programming` `1 version` 
 
 4. 5_Longest Palindromic Substring: `medium` `String` `Dynamic_Programming` `2 versions` 
+
+5. 516_Longest Palindromic Subsequence: `medium` `Dynamic_Programming` `2 versions` 
 
 
 
