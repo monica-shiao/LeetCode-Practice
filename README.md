@@ -277,5 +277,7 @@
 
 5. 516_Longest Palindromic Subsequence: `medium` `Dynamic_Programming` `2 versions` 
 
+6. 1143_Longest Common Subsequence: `medium` `Dynamic_Programming` `1 version` 
+
 
 
