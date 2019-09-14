@@ -75,6 +75,7 @@
 | 509 | Fibonacci Number | `easy` `Array`  | 4 | 
 | 516 | Longest Palindromic Subsequence | `medium` `Dynamic_Programming`  | 2 | 
 | 557 | Reverse Words in a String III | `easy` `String` | 2 |
+| 583 | Delete Operation for Two Strings | `medium` `String` `Dynamic_Programming`  | 2 | 
 | 589 | N-ary Tree Preorder Traversal | `easy` `Tree`  | 2 | 
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
 | 647 | Palindromic Substrings | `medium` `String` `Dynamic_Programming`  | 1 | 
@@ -278,6 +279,8 @@
 5. 516_Longest Palindromic Subsequence: `medium` `Dynamic_Programming` `2 versions` 
 
 6. 1143_Longest Common Subsequence: `medium` `Dynamic_Programming` `1 version` 
+
+7. 583_Delete Operation for Two Strings: `medium` `String` `Dynamic_Programming` `2 versions` 
 
 
 
