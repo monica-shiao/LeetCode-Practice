@@ -81,6 +81,7 @@
 | 647 | Palindromic Substrings | `medium` `String` `Dynamic_Programming`  | 1 | 
 | 700 | Search in a Binary Search Tree | `easy` `Tree`  | 1 | 
 | 709 | To Lower Case | `easy` `String` | 2 |
+| 712 | Minimum ASCII Delete Sum for Two Strings | `medium` `Dynamic_Programming`  | 1 | 
 | 739 | Daily Temperatures | `medium` `Stack` `Hash Table` | 3 |
 | 771 | Jewels and Stones | `easy` `Hash Table` | 2 |
 | 876 | Middle of the Linked List | `easy` `Linked_List`  | 3 | 
@@ -105,6 +106,7 @@
 | 198 | House Robber | `Recursive Version` | 
 | 206 | Reverse Linked List | `Official Recursive solution` |
 | 268 | Missing Number | `Bit Manipulation` |
+| 712 | Minimum ASCII Delete Sum for Two Strings | `Official DP Version`|
 | 977 | Squares of a Sorted Array | `Better Sort` |
 
 ## Feb Statistics: 18 Problems (36 Versions)
@@ -281,6 +283,8 @@
 6. 1143_Longest Common Subsequence: `medium` `Dynamic_Programming` `1 version` 
 
 7. 583_Delete Operation for Two Strings: `medium` `String` `Dynamic_Programming` `2 versions` 
+
+8. 712_Minimum ASCII Delete Sum for Two Strings: `medium` `Dynamic_Programming` `1 version` 
 
 
 
