@@ -24,6 +24,7 @@
 | 56 | Merge Intervals | `medium` `Array` `Sort`  | 3 | 
 | 62 | Unique Paths | `medium` `Array` `Dynamic_Programming`  | 2 | 
 | 63 | Unique Paths II | `medium` `Array` `Dynamic_Programming`  | 2 | 
+| 64 | Minimum Path Sum | `medium` `Array` `Dynamic_Programming`  | 1 | 
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
 | 69 | Sqrt(x) | `easy` `Binary_Search` `Math`  | 1 | 
 | 70 | Climbing Stairs | `easy` `Dynamic_Programming`  | 2 | 
@@ -291,6 +292,8 @@
 9. 62_Unique Paths: `medium` `Array` `Dynamic_Programming` `2 versions` 
 
 10. 63_Unique Paths II: `medium` `Array` `Dynamic_Programming` `2 versions` 
+
+11. 64_Minimum Path Sum: `medium` `Array` `Dynamic_Programming` `1 version` 
 
 
 
