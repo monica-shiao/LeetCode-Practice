@@ -22,6 +22,7 @@
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
 | 56 | Merge Intervals | `medium` `Array` `Sort`  | 3 | 
+| 62 | Unique Paths | `medium` `Array` `Dynamic_Programming`  | 2 | 
 | 66 | Plus_One | `easy` `Array` `Math` | 3 |
 | 69 | Sqrt(x) | `easy` `Binary_Search` `Math`  | 1 | 
 | 70 | Climbing Stairs | `easy` `Dynamic_Programming`  | 2 | 
@@ -285,6 +286,8 @@
 7. 583_Delete Operation for Two Strings: `medium` `String` `Dynamic_Programming` `2 versions` 
 
 8. 712_Minimum ASCII Delete Sum for Two Strings: `medium` `Dynamic_Programming` `1 version` 
+
+9. 62_Unique Paths: `medium` `Array` `Dynamic_Programming` `2 versions` 
 
 
 
