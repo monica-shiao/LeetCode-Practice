@@ -20,6 +20,7 @@
 | 26 | Remove Duplicates from Sorted Array | `easy` `Array` `Two_Pointers`  | 1 | 
 | 29 | Divide Two Integers | `medium` `Math` `Binary_Search`  | 2 | 
 | 35 | Search_Insert_Position     | `easy` `Array` `Binary Search` | 2 |
+| 49 | Group Anagrams | `medium` `Hash_Table` `String`  | 2 | 
 | 53 | Maximum Subarray | `easy` `Divide & Conquer` `Dynamic Programming` | 1 |
 | 56 | Merge Intervals | `medium` `Array` `Sort`  | 3 | 
 | 62 | Unique Paths | `medium` `Array` `Dynamic_Programming`  | 2 | 
@@ -297,6 +298,8 @@
 11. 64_Minimum Path Sum: `medium` `Array` `Dynamic_Programming` `1 version` 
 
 12. 394_Decode String: `medium` `Dynamic_Programming` `DFS` `1 version` 
+
+13. 49_Group Anagrams: `medium` `Hash_Table` `String` `2 versions` 
 
 
 
