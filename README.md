@@ -72,6 +72,7 @@
 | 350 | Intersection of Two Arrays II | `easy` `Two_Pointers` `Sort`  | 2 | 
 | 380 | Insert Delete GetRandom O(1) | `medium` `Array` `Hash_Table`  | 2 | 
 | 387 | First Unique Character in a String | `easy` `String` `Hash Table` | 1 |
+| 394 | Decode String | `medium` `Dynamic_Programming` `DFS`  | 1 | 
 | 412 | Fizz Buzz | `easy` `Math`  | 1 | 
 | 429 | N-ary Tree Level Order Traversal | `easy` `Tree` `BFS`  | 2 | 
 | 448 | Find All Numbers Disappeared in an Array | `easy` `Array`  | 1 | 
@@ -294,6 +295,8 @@
 10. 63_Unique Paths II: `medium` `Array` `Dynamic_Programming` `2 versions` 
 
 11. 64_Minimum Path Sum: `medium` `Array` `Dynamic_Programming` `1 version` 
+
+12. 394_Decode String: `medium` `Dynamic_Programming` `DFS` `1 version` 
 
 
 
