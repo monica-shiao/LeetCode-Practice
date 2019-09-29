@@ -38,6 +38,7 @@
 | 103 | Binary Tree Zigzag Level Order Traversal | `medium` `Tree` `BFS` `Stack`  | 2 | 
 | 104 | Maximum_Depth_of_Binary_Tree | `easy` `BFS` `DFS` `Tree` | 3 |
 | 108 | Convert Sorted Array to Binary Search Tree | `easy` `DFS` `Tree`  | 1 | 
+| 114 | Flatten Binary Tree to Linked List | `medium` `Tree` `DFS`  | 2 | 
 | 118 | Pascal's Triangle | `easy` `Array` `Dynamic_Programming`  | 1 | 
 | 119 | Pascal's_Triangle_II | `easy` `Array` | 2 |
 | 121 | Best Time to Buy and Sell Stock | `easy` `Array`  | 2 | 
@@ -300,6 +301,8 @@
 12. 394_Decode String: `medium` `Dynamic_Programming` `DFS` `1 version` 
 
 13. 49_Group Anagrams: `medium` `Hash_Table` `String` `2 versions` 
+
+14. 114_Flatten Binary Tree to Linked List: `medium` `Tree` `DFS` `2 versions` 
 
 
 
