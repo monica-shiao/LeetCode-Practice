@@ -64,6 +64,7 @@
 | 226 | Invert Binary Tree | `easy` `Tree`  | 1 | 
 | 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
+| 235 | Lowest Common Ancestor of a Binary Search Tree | `easy` `Tree`  | 2 | 
 | 236 | Lowest Common Ancestor of a Binary Tree | `medium` `Tree`  | 1 | 
 | 237 | Delete Node in a Linked List | `easy` `Linked_List`  | 1 | 
 | 242 | Valid Anagram | `easy` `Hash_Table` `Sort`  | 2 | 
@@ -275,6 +276,8 @@
 4. 448_Find All Numbers Disappeared in an Array: `easy` `Array` `1 version` 
 
 5. 70_Climbing Stairs: `easy` `Dynamic_Programming` `2 versions` 
+
+6. 235_Lowest Common Ancestor of a Binary Search Tree: `easy` `Tree` `2 versions` 
 
 
 ### Medium
