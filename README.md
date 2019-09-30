@@ -32,6 +32,7 @@
 | 75 | Sort Colors | `medium` `Array` `Sort` `Two_Pointers`  | 3 | 
 | 92 | Reverse Linked List II | `medium` `Linked_List`  | 1 | 
 | 94 | Binary Tree Inorder Traversal | `medium` `Tree` `Stack` `Hash Table` | 1 |
+| 98 | Validate Binary Search Tree | `medium` `Tree` `BFS`  | 1 | 
 | 100 | Same Tree | `easy` `Tree` `DFS` | 2 |
 | 101 | Symmetric_Tree | `easy` `BFS` `DFS` `Tree` | 4 |
 | 102 | Binary Tree Level Order Traversal | `medium` `BFS` `Tree`  | 1 | 
@@ -303,6 +304,8 @@
 13. 49_Group Anagrams: `medium` `Hash_Table` `String` `2 versions` 
 
 14. 114_Flatten Binary Tree to Linked List: `medium` `Tree` `DFS` `2 versions` 
+
+15. 98_Validate Binary Search Tree: `medium` `Tree` `BFS` `1 version` 
 
 
 
