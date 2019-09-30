@@ -64,6 +64,7 @@
 | 226 | Invert Binary Tree | `easy` `Tree`  | 1 | 
 | 230 | Kth Smallest Element in a BST | `medium` `Binary_Search` `Tree`  | 2 | 
 | 234 | Palindrome Linked List | `easy` `Linked_List` `Two_Pointers`  | 4 | 
+| 236 | Lowest Common Ancestor of a Binary Tree | `medium` `Tree`  | 1 | 
 | 237 | Delete Node in a Linked List | `easy` `Linked_List`  | 1 | 
 | 242 | Valid Anagram | `easy` `Hash_Table` `Sort`  | 2 | 
 | 268 | Missing Number | `easy` `Array` `Math` `Bit_Manipulation`  | 2 | 
@@ -306,6 +307,8 @@
 14. 114_Flatten Binary Tree to Linked List: `medium` `Tree` `DFS` `2 versions` 
 
 15. 98_Validate Binary Search Tree: `medium` `Tree` `BFS` `1 version` 
+
+16. 236_Lowest Common Ancestor of a Binary Tree: `medium` `Tree` `1 version` 
 
 
 
