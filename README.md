@@ -88,6 +88,7 @@
 | 589 | N-ary Tree Preorder Traversal | `easy` `Tree`  | 2 | 
 | 617 | Merge_Two_Binary_Trees | `easy` `Tree` | 3 | 
 | 647 | Palindromic Substrings | `medium` `String` `Dynamic_Programming`  | 1 | 
+| 653 | Two Sum IV - Input is a BST | `easy` `Tree`  | 3 | 
 | 700 | Search in a Binary Search Tree | `easy` `Tree`  | 1 | 
 | 709 | To Lower Case | `easy` `String` | 2 |
 | 712 | Minimum ASCII Delete Sum for Two Strings | `medium` `Dynamic_Programming`  | 1 | 
@@ -314,4 +315,11 @@
 16. 236_Lowest Common Ancestor of a Binary Tree: `medium` `Tree` `1 version` 
 
 
+## October Statistics
+### Easy
+
+1. 653_Two Sum IV - Input is a BST: `easy` `Tree` `3 versions` 
+
+
+### Medium
 
