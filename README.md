@@ -30,6 +30,7 @@
 | 69 | Sqrt(x) | `easy` `Binary_Search` `Math`  | 1 | 
 | 70 | Climbing Stairs | `easy` `Dynamic_Programming`  | 2 | 
 | 75 | Sort Colors | `medium` `Array` `Sort` `Two_Pointers`  | 3 | 
+| 88 | Merge Sorted Array | `easy` `Array` `Two_Pointers`  | 1 | 
 | 92 | Reverse Linked List II | `medium` `Linked_List`  | 1 | 
 | 94 | Binary Tree Inorder Traversal | `medium` `Tree` `Stack` `Hash Table` | 1 |
 | 98 | Validate Binary Search Tree | `medium` `Tree` `BFS`  | 1 | 
@@ -320,6 +321,14 @@
 
 1. 653_Two Sum IV - Input is a BST: `easy` `Tree` `3 versions` 
 
+## November Statistics
+### Easy
+
+1. 88_Merge Sorted Array: `easy` `Array` `Two_Pointers` `1 version` 
+
 
 ### Medium
+
+
+
 
