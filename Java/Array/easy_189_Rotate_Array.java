@@ -1,6 +1,6 @@
 /***
 Tags: "Array"
-Create: 2019/01/28
+Create: 2020/02/09
 Update: 2019/01/28
 
 Problem description:
@@ -26,6 +26,24 @@ Note:
     
     Could you do it in-place with O(1) extra space?
 ***/
+
+
+// My Version3(like bubble sort -> transfer the last number step by step to the first place and in k times)
+
+class Solution {
+    public void rotate(int[] nums, int k) {
+        int tmp, len = nums.length;
+        
+        for(int i = 0; i < k; i++) {
+            for(int j = len - 1; j > 0; j--) {
+                tmp = nums[j];
+                nums[j] = nums[j - 1];
+                nums[j - 1] = tmp;
+            }
+        }
+    }
+}
+
 
 // My Version2
 // Time complexity : O(n∗k). All the numbers are shifted by one step(O(n)) k times(O(k)).

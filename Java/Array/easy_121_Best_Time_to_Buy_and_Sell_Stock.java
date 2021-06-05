@@ -1,6 +1,6 @@
 /***
 Tags: Array
-Create: 2019/8/17
+Create: 2020/2/9
 Update: 2019/8/21
 
 Problem description:
@@ -39,6 +39,31 @@ public class Solution {
         return max;
     }
 }
+
+
+// My Second Version (Dynamic_programming)
+
+class Solution {
+    public int maxProfit(int[] prices) {
+        int len = prices.length, tmp_max = 0;
+        int[] max = new int[len];
+        Arrays.fill(max, 0);
+        
+        if(len == 0 || len == 1)    return 0;
+        
+        for(int i = 1; i < len; i++) {
+            tmp_max = max[i - 1];
+
+            for(int j = 0; j < i; j++) {
+                int diff = prices[i] - prices[j];
+                if(tmp_max < diff +  max[j])   tmp_max = diff  +  max[j];
+            }
+            max[i] = tmp_max;
+        }
+        return max[len - 1];
+    }
+}
+
 
 
 // My First Version (Brute Force)
